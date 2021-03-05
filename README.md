@@ -2,6 +2,7 @@
 
 1. Clone the repository using `git`:
     - `git clone git@github.com:ivankp/hgam_data_example.git`
+    - Or use https to clone: `git clone https://github.com/ivankp/hgam_data_example.git`
 2. Compile the code using `make`:
     - `cd hgam_data_example`
     - `make`
